@@ -1,3 +1,1 @@
-# __This is for Shell Basics__
-
-_This repo writes a few scripts that prints shell commands_
+script that switches the current user to the user betty
